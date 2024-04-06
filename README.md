@@ -79,5 +79,16 @@ Além disso, as notas são convertidas em diferentes durações (minimas, semini
 
 Assista ao clip
 [aqui]
-(https://www.facebook.com/BananaMachinada/posts/pfbid0288UboEzKGLKVFGu3Wc2wJzWAWvN1JErbwUYF75Hi2xW2p6oTq88DDakAXhzm9m4fl).
+
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="https://www.facebook.com/plugins/post.php?    
+           href=https%3A%2F%2Fwww.facebook.com%2FBananaMachinada%2Fposts%2Fpfbid0288UboEzKGLKVFGu3Wc2wJzWAWvN1JErbwUYF75Hi2xW2p6oTq88DDakAXhzm9m4fl&show_text=true&width=500" width="500" height="608" 
+           style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+  </iframe>
+</div>
+(<iframe </iframe>).
 
