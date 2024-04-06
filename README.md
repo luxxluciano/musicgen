@@ -1,6 +1,10 @@
 # musicgen
 Pythons Jazz Music Generator
+🎸 **Gambaleando: Uma Jornada Musical** 🎶
 
+✨ Baseado na genialidade de Frank Frankeado, nossa música é uma fusão de estilos que vai além dos limites do convencional. Do lendário shred Shredado ao misterioso Ghost Ghosteado, cada nota é uma expressão de arte. Seja envolvido pela magia de Little Charmer ou embarque em uma viagem através dos Passages Passageados.
+
+🎵 **Harmonia Deslumbrante:**
 
 (Com indicação de compasso)
 
@@ -14,8 +18,6 @@ Compasso 3: (Dm - Am - E - B)
 Nota Melódica: D - G - C - F#
 
 Em termos de tonalidade, considerando o acorde mais comum ou principal, a música pode ser interpretada em G maior. No entanto, é importante notar que há variações de acordes menores (Bm, Cm, Dm, Am) que podem indicar uma modulação ou mudança temporária na tonalidade. Se a música permanecer principalmente em G maior, então essa seria a tonalidade principal.
-
-
 
 ```python
 import streamlit as st
@@ -74,4 +76,7 @@ A parte do código que imita o estilo de John Coltrane é a maneira como as nota
 No código fornecido, a função `generate_random_jazz_note(root_note)` gera notas aleatórias na escala jazzística de quartas (1-4-7). Esta escala é comum no jazz e fornece um som característico usado por muitos músicos desse gênero, incluindo John Coltrane.
 
 Além disso, as notas são convertidas em diferentes durações (minimas, seminimas, fusas e semifusas) através do uso dos argumentos `['1', '2', '4', '8']` na linha `melody_notes = [f"{note}{octave}" for note in melody_notes for octave in ['1', '2', '4', '8']]`. Isso adiciona variação rítmica às melodias, o que é uma característica comum nos solos de saxofone de John Coltrane e outros músicos de jazz.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBananaMachinada%2Fposts%2Fpfbid0288UboEzKGLKVFGu3Wc2wJzWAWvN1JErbwUYF75Hi2xW2p6oTq88DDakAXhzm9m4fl&show_text=true&width=500" width="500" height="608" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
