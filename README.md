@@ -77,18 +77,7 @@ No código fornecido, a função `generate_random_jazz_note(root_note)` gera not
 
 Além disso, as notas são convertidas em diferentes durações (minimas, seminimas, fusas e semifusas) através do uso dos argumentos `['1', '2', '4', '8']` na linha `melody_notes = [f"{note}{octave}" for note in melody_notes for octave in ['1', '2', '4', '8']]`. Isso adiciona variação rítmica às melodias, o que é uma característica comum nos solos de saxofone de John Coltrane e outros músicos de jazz.
 
-Assista ao clip
-[aqui]
-
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://www.facebook.com/plugins/post.php?    
-           href=https%3A%2F%2Fwww.facebook.com%2FBananaMachinada%2Fposts%2Fpfbid0288UboEzKGLKVFGu3Wc2wJzWAWvN1JErbwUYF75Hi2xW2p6oTq88DDakAXhzm9m4fl&show_text=true&width=500" width="500" height="608" 
-           style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
-  </iframe>
-</div>
-(<iframe </iframe>).
+Assista ao clip [aqui]
+(src=https%3A%2F%2Fwww.facebook.com%2FBananaMachinada%2Fposts%2Fpfbid0288UboEzKGLKVFGu3Wc2wJzWAWvN1JErbwUYF75Hi2xW2p6oTq88DDakAXhzm9m4fl)
+ 
 
